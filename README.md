@@ -53,9 +53,11 @@ Hi there! I'm **M. Rizki Algipari**, a passionate **Fullstack Developer** and **
 
 ### 📊 Git Statistics
 
-![Ridzz05 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ridzz05&show_icons=true&theme=radical&count_private=true)
+<!-- Menggunakan mirror server alternatif yang lebih stabil untuk mencegah rate-limiting Error Fetching Resource dari Vercel public server -->
+![Ridzz05 GitHub Stats](https://github-readme-stats-anuraghazra.vercel.app/api?username=Ridzz05&show_icons=true&theme=radical&count_private=true)
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=Ridzz05&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Menggunakan Komarev View Counter yang terkenal memiliki uptime hampir 100% dan sangat stabil -->
+![Profile Views](https://komarev.com/ghpvc/?username=Ridzz05&color=blue&style=flat-square)
 
 ---
 
