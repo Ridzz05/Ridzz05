@@ -1,65 +1,72 @@
-# M. Rizki Algipari (Ridzz05)
-`Fullstack Developer // AI Engineer // Tech Innovator`
+<h1 data-importer="text" align="center">Hey 👋 What's Up?</h1>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ezpzlemonsquizy)
-![Status](https://img.shields.io/badge/Status-Active%20Building-b5ff00?style=for-the-badge)
-![Location](https://img.shields.io/badge/Location-Palembang,%20ID-1e4ae9?style=for-the-badge)
+<p align="center">
+  Hi there! I'm <strong>M. Rizki Algipari (Ridzz05)</strong>, a passionate <strong>Fullstack Developer</strong> and <strong>AI Engineer</strong> from Palembang, Indonesia 🇮🇩.<br/>
+  I study at <strong>Universitas Multi Data Palembang</strong> and specialize in building high-performance systems with React, Svelte, and Laravel.
+</p>
 
----
+<p align="center">
+  ⚙️ <strong>Active Focus:</strong> Engineering <a href="https://github.com/Ridzz05/systemify-id">systemify-id</a> — a custom digital systems architect and web application ecosystem.<br/>
+  🧠 <strong>Exploring & Learning:</strong> Flutter, Rust, Ruby, and Large Language Models (LLMs).
+</p>
 
-### 🌐 About Me
+###
 
-Hi there! I'm **M. Rizki Algipari**, a passionate **Fullstack Developer** and **AI Engineer** from Indonesia 🇮🇩, currently pursuing my studies at **Universitas Multi Data Palembang**. I specialize in engineering clean, modular software systems and incorporating intelligent AI agents into developer workflows. I love coffee, clean code, and solving complex problems with high-performance architectures.
+<div data-importer="techs" align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=svelte" height="60" alt="svelte logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
+</div>
 
-- ⚙️ **Current Project:** Building [systemify-id](https://github.com/Ridzz05/systemify-id) — a bespoke digital systems agency and custom web application engineering ecosystem.
-- 🧠 **Exploring & Learning:** Flutter, Rust, Ruby, and Large Language Models (LLMs).
-- ☕ **Developer Fun Fact:** I debug with music and caffeine in equal measure.
+###
 
----
+<div data-importer="socials" align="center">
+  <a href="https://instagram.com/ezpzlemonsquizy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
+</div>
 
-### 💻 Tech Stack & Tools
+###
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>Frontend & Styles</strong><br/>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/svelte-%23f1413d.svg?style=flat-square&logo=svelte&logoColor=white" alt="Svelte" />
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-      <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white" alt="SASS" />
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-    </td>
-    <td valign="top" width="50%">
-      <strong>Backend & Databases</strong><br/>
-      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="Express.js" />
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-    </td>
-  </tr>
-</table>
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Ridzz05&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Ridzz05&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+</div>
 
----
+###
 
-### 🏆 Achievements & Badges
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ridzz05/Ridzz05/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ridzz05/Ridzz05/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ridzz05/Ridzz05/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ridzz05&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/Ridzz05)
+###
 
-[![Holopin Badges](https://holopin.me/ridzz05)](https://holopin.io/@ridzz05)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ridzz05&color=blue&style=flat-square" alt="Profile Views" />
+</p>
 
----
-
-### 📊 Git Statistics
-
-<!-- Menggunakan mirror server alternatif yang lebih stabil untuk mencegah rate-limiting Error Fetching Resource dari Vercel public server -->
-![Ridzz05 GitHub Stats](https://github-readme-stats-anuraghazra.vercel.app/api?username=Ridzz05&show_icons=true&theme=radical&count_private=true)
-
-<!-- Menggunakan Komarev View Counter yang terkenal memiliki uptime hampir 100% dan sangat stabil -->
-![Profile Views](https://komarev.com/ghpvc/?username=Ridzz05&color=blue&style=flat-square)
-
----
-
-> *“Code is like humor — when you have to explain it, it’s bad.”*  
-> — **Cory House**
+<p align="center">
+  <em>“Code is like humor — when you have to explain it, it’s bad.”</em> — Cory House
+</p>
