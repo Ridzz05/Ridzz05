@@ -1,13 +1,9 @@
 # M. Rizki Algipari (Ridzz05)
 `Fullstack Developer // AI Engineer // Tech Innovator`
 
-<p align="left">
-  <a href="https://instagram.com/ezpzlemonsquizy" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Active%20Building-b5ff00?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Location-Palembang,%20ID-1e4ae9?style=for-the-badge" alt="Location" />
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ezpzlemonsquizy)
+![Status](https://img.shields.io/badge/Status-Active%20Building-b5ff00?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Palembang,%20ID-1e4ae9?style=for-the-badge)
 
 ---
 
@@ -49,29 +45,17 @@ Hi there! I'm **M. Rizki Algipari**, a passionate **Fullstack Developer** and **
 
 ### 🏆 Achievements & Badges
 
-<p align="left">
-  <a href="https://github.com/Ridzz05">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ridzz05&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
-</p>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ridzz05&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/Ridzz05)
 
-<p align="left">
-  <a href="https://holopin.io/@ridzz05">
-    <img src="https://holopin.me/ridzz05" alt="Holopin Badges" />
-  </a>
-</p>
+[![Holopin Badges](https://holopin.me/ridzz05)](https://holopin.io/@ridzz05)
 
 ---
 
 ### 📊 Git Statistics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ridzz05&show_icons=true&theme=radical&count_private=true" alt="Ridzz05 GitHub Stats" />
-</p>
+![Ridzz05 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ridzz05&show_icons=true&theme=radical&count_private=true)
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ridzz05&icon=0&color=0" alt="Visitor Count" />
-</p>
+[![Visitor Count](https://visitcount.itsvg.in/api?id=Ridzz05&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
