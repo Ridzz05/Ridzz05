@@ -1,72 +1,143 @@
-<h1 data-importer="text" align="center">Hey 👋 What's Up?</h1>
+<div align="center">
 
-<p align="center">
-  Hi there! I'm <strong>M. Rizki Algipari (Ridzz05)</strong>, a passionate <strong>Fullstack Developer</strong> and <strong>AI Engineer</strong> from Palembang, Indonesia 🇮🇩.<br/>
-  I study at <strong>Universitas Multi Data Palembang</strong> and specialize in building high-performance systems with React, Svelte, and Laravel.
-</p>
+# Hey, I'm M. Rizki Algipari 👋
 
-<p align="center">
-  ⚙️ <strong>Active Focus:</strong> Engineering <a href="https://github.com/Ridzz05/systemify-id">systemify-id</a> — a custom digital systems architect and web application ecosystem.<br/>
-  🧠 <strong>Exploring & Learning:</strong> Flutter, Rust, Ruby, and Large Language Models (LLMs).
-</p>
+### Full-Stack Systems Engineer · Product Engineer · Applied AI
 
-###
+**I build systems, not just pages.**
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=svelte" height="60" alt="svelte logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
+I’m a developer from **Palembang, Indonesia 🇮🇩**, currently studying at **Universitas Multi Data Palembang**.
+My work focuses on turning real business processes into reliable software — from POS, CRM, finance, rental, attendance, and operational dashboards to AI automation, media pipelines, and reusable backend infrastructure.
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Ridzz05&color=blue&style=flat-square)](https://github.com/Ridzz05)
+
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <a href="https://instagram.com/ezpzlemonsquizy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" alt="instagram logo" />
-  </a>
+## 🧭 What I Do
+
+I enjoy working across the entire product stack:
+
+- 🏗️ **Business Systems & SaaS** — POS, CRM, ERP-style workflows, finance, membership, rental, attendance, analytics, and internal tools.
+- ⚙️ **Backend & Platform Engineering** — REST APIs, modular architecture, PostgreSQL, Redis, queues, caching, authentication, observability, Docker, and CI/CD.
+- 🧠 **Applied AI Engineering** — LLM integrations, automation agents, speech transcription, computer vision, media processing, and AI-assisted workflows.
+- 🖥️ **Full-Stack Product Development** — Laravel/PHP backends with React, TypeScript, Tailwind, Material UI, and Inertia-based applications.
+- 📱 **Mobile Development** — Flutter/Dart applications with state management and offline-capable application patterns.
+- 🔌 **System Integration** — connecting Laravel, Go, Node.js, Python services, WhatsApp gateways, external APIs, Redis, databases, and background workers into one coherent system.
+
+I’m especially interested in software where **architecture, business rules, infrastructure, and user experience all meet in one product**.
+
+---
+
+## 🚀 Current Direction
+
+Right now, I’m moving deeper into **reusable platform architecture and backend engineering**.
+
+- Building **[NexusAPI](https://github.com/Ridzz05/NexusAPI)** — a reusable Go REST API foundation built around PostgreSQL, Redis, OpenAPI, Docker, security, observability, and modular-monolith principles.
+- Building reusable application foundations through **[mify-admin-starter](https://github.com/Ridzz05/mify-admin-starter)** so authentication, RBAC, dashboard structure, UI primitives, and application shells do not need to be rebuilt for every project.
+- Continuing to explore how AI can become a real part of business systems instead of being treated as a standalone chatbot feature.
+
+```text
+problem
+   ↓
+business process
+   ↓
+system design
+   ↓
+backend + data
+   ↓
+frontend / mobile
+   ↓
+integrations + automation
+   ↓
+deployment + observability
+```
+
+---
+
+## 🛠️ Core Stack
+
+<div align="center">
+
+### Application & Frontend
+<img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,vite,html,css" alt="Frontend stack" />
+
+### Backend & API
+<img src="https://skillicons.dev/icons?i=php,laravel,go,nodejs,express,python" alt="Backend stack" />
+
+### Data & Infrastructure
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,docker,git,linux" alt="Infrastructure stack" />
+
+### Mobile
+<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile stack" />
+
 </div>
 
-###
+### Technologies I work with
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=Ridzz05&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Ridzz05&show_icons=true&theme=dracula" height="150" alt="stats graph" />
+`Laravel` · `PHP` · `React` · `TypeScript` · `JavaScript` · `Inertia` · `Livewire` · `Tailwind CSS` · `Material UI` · `Go` · `REST API` · `OpenAPI` · `PostgreSQL` · `MySQL` · `SQLite` · `Redis` · `Docker` · `Node.js` · `Express` · `Python` · `Flutter` · `Dart` · `GitHub Actions`
+
+### Applied AI & Automation
+
+`LLM Integration` · `Ollama` · `Whisper / faster-whisper` · `MediaPipe` · `FFmpeg` · `Computer Vision` · `AI Automation` · `WhatsApp/Baileys Integration`
+
+---
+
+## 🧩 Selected Projects
+
+| Project | What it is | Main stack |
+|---|---|---|
+| **[NexusAPI](https://github.com/Ridzz05/NexusAPI)** | Reusable production-oriented REST API foundation with modular architecture, auth, PostgreSQL, Redis, OpenAPI, outbox events, Docker, and CI. | Go · PostgreSQL · Redis · Docker |
+| **[ClipForge AI](https://github.com/Ridzz05/ClipForge-AI)** | Self-hosted AI pipeline that converts long-form video into short vertical clips through transcription, LLM highlight scoring, reframing, captions, and rendering. | Laravel · Python · faster-whisper · Ollama · MediaPipe · FFmpeg |
+| **[Smart Rental System](https://github.com/Ridzz05/Smart-Rental-System)** | End-to-end rental management platform covering fleet, customers, transactions, returns, dashboards, and public-facing discovery. | Laravel · React · Material UI · Tailwind |
+| **[AI Point of Sale](https://github.com/Ridzz05/AI-Point-Of-Sale)** | Modern POS/business application combining operational workflows with AI-oriented features. | Laravel · React · TypeScript |
+| **[mify-admin-starter](https://github.com/Ridzz05/mify-admin-starter)** | Reusable application starter with authentication, RBAC, analytics shell, user management, theming, i18n, and replaceable domain modules. | Laravel · React · Material UI |
+| **[CRM Bot](https://github.com/Ridzz05/CRM-Bot)** | CRM and automation experimentation around conversational/business workflows. | Web · Automation · AI |
+
+---
+
+## 🧠 Engineering Interests
+
+```text
+Full-Stack Systems
+├── Business Process Digitalization
+├── Product Engineering
+├── REST API & Backend Architecture
+├── Modular Monoliths
+├── Reusable Platform Foundations
+├── Database & Transaction Design
+├── Caching / Queue / Event-Driven Systems
+├── Applied AI & Automation
+├── Realtime / Device Integrations
+└── Production Deployment & Observability
+```
+
+I’m less interested in adding technology just because it is trendy. I prefer choosing the simplest architecture that solves the current problem **without blocking the system from growing later**.
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Ridzz05&show_icons=true&theme=dracula" height="165" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=Ridzz05&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="165" alt="GitHub streak" />
 </div>
 
-###
+---
 
-<picture data-importer="pacman">
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ridzz05/Ridzz05/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ridzz05/Ridzz05/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ridzz05/Ridzz05/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Ridzz05/Ridzz05/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
-###
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ridzz05&color=blue&style=flat-square" alt="Profile Views" />
-</p>
+<div align="center">
 
-<p align="center">
-  <em>“Code is like humor — when you have to explain it, it’s bad.”</em> — Cory House
-</p>
+### Build useful things. Understand the system. Keep improving it.
+
+<em>“Code is like humor — when you have to explain it, it’s bad.”</em> — Cory House
+
+</div>
