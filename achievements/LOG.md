@@ -14,3 +14,4 @@ Catatan kecil untuk tiap pull request.
 - PR #10 — 2026-11-21T14:36:03Z
 - PR #11 — 2026-11-21T14:36:15Z
 - PR #12 — 2026-11-21T14:36:27Z
+- PR #13 — 2026-11-21T14:36:39Z
